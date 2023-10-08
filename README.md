@@ -1,2 +1,3 @@
 # FIMN
-code for model FIMN
+code for model FIMN. 
+WILL UPDATE SOON !
