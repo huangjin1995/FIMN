@@ -1,3 +1,3 @@
 # FIMN
-code and dewu dataset for model FIMN. 
-# WILL UPDATE SOON !
+core code of FIMN and part of dewu dataset are updated. 
+
